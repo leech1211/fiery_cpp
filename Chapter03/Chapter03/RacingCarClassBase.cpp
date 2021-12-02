@@ -1,6 +1,7 @@
+#define _CRT_SECURE_NO_WARNINGS   //strcpy() 오류무시
 #include <iostream>
 #include <cstring>
-#define EXAMPLE_MACRO_NAME  //strcpy() 오류무시
+
 using namespace std;
 
 namespace CAR_CONST

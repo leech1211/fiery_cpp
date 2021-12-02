@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS //scanf오류방지
 #include <iostream>
 #include <cstring>
 #include "Car.h"
