@@ -1,8 +1,2 @@
-﻿  p190문제2.cpp
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(26,25): error C2275: 'NameCard::COMP_POS': 이 형식을 식으로 잘못 사용했습니다.
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(40,54): error C2653: 'COMP_POS': 클래스 또는 네임스페이스 이름이 아닙니다.
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(40,64): error C2065: 'CLERK': 선언되지 않은 식별자입니다.
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(41,59): error C2653: 'COMP_POS': 클래스 또는 네임스페이스 이름이 아닙니다.
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(41,69): error C2065: 'SENIOR': 선언되지 않은 식별자입니다.
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(42,59): error C2653: 'COMP_POS': 클래스 또는 네임스페이스 이름이 아닙니다.
-C:\Users\user1\Desktop\c++\Chapter04\Chapter04\p190문제2.cpp(42,69): error C2065: 'Assist': 선언되지 않은 식별자입니다.
+﻿  SelfRef.cpp
+  Chapter04.vcxproj -> C:\Users\user1\Desktop\c++\Chapter04\x64\Debug\Chapter04.exe
