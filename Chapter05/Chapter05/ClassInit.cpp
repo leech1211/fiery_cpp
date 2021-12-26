@@ -13,7 +13,7 @@ public:
 
 	}
 
-	SoSimple(SoSimple& copy)
+	SoSimple(SoSimple& copy)		//복사생성자
 		:num1(copy.num1), num2(copy.num2)
 	{
 		cout << "Called SoSimple(SoSimple &copy)" << endl;
