@@ -27,5 +27,17 @@
     <ClCompile Include="p226문제1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PassObjCopycon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnObjCopycon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IKnowTempObj.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnObjDeadTime.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
