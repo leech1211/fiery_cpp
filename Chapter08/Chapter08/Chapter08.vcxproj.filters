@@ -18,10 +18,25 @@
     <ClCompile Include="ObjectPointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EmployeeManger2.cpp">
+    <ClCompile Include="EmployeeManager2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EmplyeeManager3.cpp">
+    <ClCompile Include="EmployeeManager3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOverride.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionVirtualOverride.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeManager4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualDestructor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ReferenceAttribute.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
